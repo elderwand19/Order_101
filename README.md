@@ -1,7 +1,7 @@
 # Order_101
 
 # Order_Proc_Sytem
--java resource files
+- java resource files
     - servlets
     - Dao Implements
     - Models
